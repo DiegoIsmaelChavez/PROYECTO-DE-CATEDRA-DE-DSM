@@ -30,7 +30,7 @@ Bienvenido al respositorio de desarrollo de EasyDining
 
 <h2>📕 Licencias</h2>
 
-![by-nc-nd]()
+![by-nc-nd](https://github.com/DiegoIsmaelChavez/PROYECTO-DE-CATEDRA-DE-DSM/blob/main/Licencia.png)
 
 > [!CAUTION]
 >EasyDining está bajo la licencia CC BY-NC-SA 4.0 DEED
