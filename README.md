@@ -26,7 +26,7 @@ Bienvenido al respositorio de desarrollo de EasyDining
 
 > [Enlace a Notion 📗📝](https://material-loan-119.notion.site/4214f51f8bd341cdadb30156a583d53a?v=1a22c874741742b2b73907baef48c075&pvs=4) 
 
-> [Pefil del proyecto PDF 📖](https://github.com/Cabrera437/PROYECTO-DE-CATEDRA-DE-DPS/blob/master/Poyecto_de_catedra_fase1_DPS.pdf)
+> [Pefil del proyecto PDF 📖](https://github.com/DiegoIsmaelChavez/PROYECTO-DE-CATEDRA-DE-DSM/blob/main/Proyecto_Catedra_Fase1_DSM.pdf)
 
 <h2>📕 Licencias</h2>
 
