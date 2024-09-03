@@ -1,4 +1,4 @@
-# PROYECTO-DE-CATEDRA-DE-DSM
+# PROYECTO-DE-CATEDRA-DE-DSM Grupo 01T
 #   EasyDining
 Bienvenido al respositorio de desarrollo de EasyDining
 
