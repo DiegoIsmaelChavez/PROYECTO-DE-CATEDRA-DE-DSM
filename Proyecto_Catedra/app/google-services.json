@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "813186195656",
+    "firebase_url": "https://desafio02dsm-640d0-default-rtdb.firebaseio.com",
+    "project_id": "desafio02dsm-640d0",
+    "storage_bucket": "desafio02dsm-640d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813186195656:android:8db6e7c4eca992dc1ac5fd",
+        "android_client_info": {
+          "package_name": "com.example.desafio_02_dsm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7EfOHUhbqlIuXX8M6dhw6Oi_8IRXdFso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:813186195656:android:e972773c2e43d9c61ac5fd",
+        "android_client_info": {
+          "package_name": "com.example.easydining"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7EfOHUhbqlIuXX8M6dhw6Oi_8IRXdFso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
