@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="8dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="12dp">
+
+        <ImageView
+            android:id="@+id/imagenRestaurante"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:scaleType="centerCrop" />
+
+        <TextView
+            android:id="@+id/nombreRestaurante"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textSize="16sp"
+            android:paddingTop="8dp"
+            android:paddingBottom="4dp" />
+
+        <TextView
+            android:id="@+id/direccionRestaurante"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:paddingBottom="2dp" />
+
+        <TextView
+            android:id="@+id/horarioRestaurante"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:paddingBottom="8dp" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>
