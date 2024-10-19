@@ -28,7 +28,7 @@ Bienvenido al respositorio de desarrollo de EasyDining
 
 > [Pefil del proyecto PDF 📖](https://github.com/DiegoIsmaelChavez/PROYECTO-DE-CATEDRA-DE-DSM/blob/main/Proyecto_Catedra_Fase1_DSM.pdf)
 
-> [Manual de Usuario 📖]()
+> [Manual de Usuario 📖](https://github.com/DiegoIsmaelChavez/PROYECTO-DE-CATEDRA-DE-DSM/blob/main/Manual_de_Usuario.pdf)
 
 <h2>📕 Licencias</h2>
 
