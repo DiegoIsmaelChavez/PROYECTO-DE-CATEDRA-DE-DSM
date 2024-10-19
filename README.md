@@ -30,7 +30,7 @@ Bienvenido al respositorio de desarrollo de EasyDining
 
 > [Manual de Usuario 📖](https://github.com/DiegoIsmaelChavez/PROYECTO-DE-CATEDRA-DE-DSM/blob/main/Manual_de_Usuario.pdf)
 
->> [Manual Tecnico 📖]() 
+>> [Manual Tecnico 📖](https://github.com/DiegoIsmaelChavez/PROYECTO-DE-CATEDRA-DE-DSM/blob/main/EasyDining_Manual_Tecnico.pdf) 
 
 <h2>📕 Licencias</h2>
 
